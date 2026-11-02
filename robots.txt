@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+​Sitemap
+​Sitemap: https://q567in.in/sitemap.xml
